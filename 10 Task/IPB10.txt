@@ -1,0 +1,5 @@
+1 Task 
+first diagram: save-true,live-true
+second diagram: save-true,live-true
+trird diagram: save-false,live-true
+fourth diagram: save-true,live-false
